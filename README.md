@@ -49,3 +49,4 @@ This is a mini-project for SC1015 (Introduction to Data Science and Artificial I
 - https://www.oecd.org/education/Education-Policy-Outlook-Country-Profile-Mexico-2018.pdf
 - https://journals.sagepub.com/doi/pdf/10.2304/csee.2004.6.2.101
 - https://medium.com/data-science-group-iitr/logistic-regression-simplified-9b4efe801389
+- https://www.analyticsvidhya.com/blog/2021/09/gradient-boosting-algorithm-a-complete-guide-for-beginners/
