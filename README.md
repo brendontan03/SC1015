@@ -48,3 +48,4 @@ This is a mini-project for SC1015 (Introduction to Data Science and Artificial I
 - https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.html#:~:text=pyplot%20is%20a%20state%2Dbased,%2C%200.1)%20y%20%3D%20np.
 - https://www.oecd.org/education/Education-Policy-Outlook-Country-Profile-Mexico-2018.pdf
 - https://journals.sagepub.com/doi/pdf/10.2304/csee.2004.6.2.101
+- https://medium.com/data-science-group-iitr/logistic-regression-simplified-9b4efe801389
