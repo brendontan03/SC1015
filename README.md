@@ -11,7 +11,7 @@ This is a mini-project for SC1015 (Introduction to Data Science and Artificial I
 ## Group Members
 - Brendon Tan (Data Cleaning and Exploratory Data Analysis)
 - Gerard Sin (Machine Learning)
-- Eldrick Goh (Policies and Video Narration)
+- Eldrick Goh (Policies and Presentation Narration)
 
 ## Problem Definition
 
