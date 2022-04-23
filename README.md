@@ -13,6 +13,8 @@ This is a mini-project for SC1015 (Introduction to Data Science and Artificial I
 - Gerard Sin (Machine Learning)
 - Eldrick Goh (Policies and Presentation Narration)
 
+Additionally, we would like to thank Dr Sourav Sen Gupta and TA Sun Chenyu for their help and guidance in our data science journey.
+
 ## Problem Definition
 
 - Are we able to predict which factor has the most significant impact on suicide rates?
