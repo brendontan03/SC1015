@@ -8,6 +8,11 @@ This is a mini-project for SC1015 (Introduction to Data Science and Artificial I
 2. [Machine Learning models](https://github.com/brendontan03/SC1015/blob/main/Machine%20Learning%20models.ipynb)
 3. [Policies](https://github.com/brendontan03/SC1015/blob/main/Policies.ipynb)
 
+## Group Members
+- Brendon Tan (Data Cleaning and Exploratory Data Analysis)
+- Gerard Sin ( Machine Learning)
+- Eldrick Goh (Policies and Video Narration)
+
 ## Problem Definition
 
 - Are we able to predict which factor has the most significant impact on suicide rates?
